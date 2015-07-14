@@ -1,0 +1,6 @@
+*.zip
+*.exe
+*.rpm
+build
+bin
+dist
